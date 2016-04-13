@@ -1,0 +1,28 @@
+name: ComSec
+favicon: null
+layout_spectrum: 0.6491413074545562
+typography_spectrum: 0.18867792515084147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9875271322671324
+  lightness: 0.007040070602670312
+  saturation: 0.10014473972842097
+  rhythmicContrast: 0.5880292186047882
+purpose: []
